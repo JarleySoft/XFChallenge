@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XFChallenge\XFChallenge.csproj">
-      <Project>{06FAD79E-630A-463E-AF6F-3F82BC1C0180}</Project>
+      <Project>{C90DAA08-8507-4986-A2C2-B96DCA33A947}</Project>
       <Name>XFChallenge</Name>
     </ProjectReference>
   </ItemGroup>
